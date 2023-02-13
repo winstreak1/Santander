@@ -1,0 +1,29 @@
+Project I
+ 
+
+Due: Feb. 16, 2023
+
+ 
+
+The first project is one of Kaggle’s current challenges of “Santander Customer Satisfaction: Which customers are happy customers?”
+
+ 
+
+https://www.kaggle.com/competitions/santander-customer-satisfaction/Links to an external site.
+
+ 
+
+Students are required to perform this project individually. You are required to write a machine learning program (kernel) to identify the unsatisfied customers from the Santander dataset.
+
+ 
+
+You are required to write a jupyter notebook to report your machine learning model implementation and results of your project. The Santander dataset has a lot of features and the key to the success of this project is selecting the most effective features. Your jupyter notebook should describe your data processing methods, your feature selections strategy, your machine learning model, and your results. You need to show how your feature selection methods can lead to performance improvement step by step. Use figures, images, tables, and charts to visualize/show/analyze your results. Draw your conclusions based on your results.
+
+ 
+
+You are also encouraged to submit your prediction results to Kaggle following Kaggle’s rules to see the performance of your program compared to the other Kaggle submissions. Please report your Kaggle ranking in your submission if you have it.
+
+ 
+
+Delivery form
+The delivery form of this assignment should be a jupyter notebook file with detailed descriptions and comments. Please submit your jupyter notebook via canvas.
